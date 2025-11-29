@@ -12,6 +12,7 @@ kufy@dev:~$ cat goals.txt
 > 1. Build the perfect bot.
 > 2. Stop staring at charts at 3 AM.
 > 3. Refactor spaghetti code.
+```
 <br>
 
 <div align="center">
