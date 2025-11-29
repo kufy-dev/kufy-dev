@@ -16,12 +16,10 @@ kufy@dev:~$ cat goals.txt
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kufy-dev&show_icons=true&theme=radical&hide_border=false&count_private=true&cache_seconds=1" height="150" alt="stats graph" />
+  <h3>🏆 Achievements Unlocked</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=kufy-dev&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kufy-dev&layout=compact&theme=radical&hide_border=false&cache_seconds=1" height="150" alt="languages graph" />
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kufy-dev&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
-
-<br>
-
-### 🐍 Ular Pemangsa Kontribusi
-<img src="https://github-readme-snake-svg.vercel.app/api?username=kufy-dev&color_snake=#00ff00&color_dots=#161b22" alt="snake animation" width="100%" />
