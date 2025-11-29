@@ -23,3 +23,17 @@ kufy@dev:~$ cat goals.txt
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kufy-dev&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
+<br>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crypto-Trading-orange?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bot_Status-Active-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Profit-404_Not_Found-red?style=for-the-badge" />
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=kufy-dev&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" alt="profile views" />
+
+</div>
