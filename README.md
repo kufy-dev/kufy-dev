@@ -478,11 +478,6 @@ If you find my projects helpful:
 
 ---
 
-<div align="center">
-
-```
-
-```
 **⭐ Star repositories you find useful • 🍴 Fork projects you want to contribute to**
 
 <sub>Made with 💚, lots of ☕, and endless curiosity by Kufy Dev</sub>
