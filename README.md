@@ -139,27 +139,6 @@ kufy@dev:~$ cat expertise.json
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Statistics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kufy-dev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0e27&title_color=00ff88&icon_color=00ff88&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kufy-dev&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0e27&title_color=00ff88&text_color=ffffff"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🔥 Contribution Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kufy-dev&theme=chartreuse-dark&hide_border=true&background=0a0e27&stroke=00ff88&ring=00ff88&fire=ff3366&currStreakLabel=00ff88" alt="GitHub Streak" />
-
-</div>
-
----
 
 <div align="center">
 
@@ -361,32 +340,6 @@ mindmap
 
 <div align="center">
 
-## 📂 Featured Projects
-
-### 🌟 Highlighted Repositories
-
-<a href="https://github.com/kufy-dev/trading-stockity-ebook">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kufy-dev&repo=trading-stockity-ebook&theme=chartreuse-dark&hide_border=true&bg_color=0a0e27&title_color=00ff88&icon_color=00ff88&text_color=ffffff" />
-</a>
-
-<a href="https://github.com/kufy-dev/web-portfolio-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kufy-dev&repo=web-portfolio-template&theme=chartreuse-dark&hide_border=true&bg_color=0a0e27&title_color=00ff88&icon_color=00ff88&text_color=ffffff" />
-</a>
-
-<a href="https://github.com/kufy-dev/crypto-trading-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kufy-dev&repo=crypto-trading-bot&theme=chartreuse-dark&hide_border=true&bg_color=0a0e27&title_color=00ff88&icon_color=00ff88&text_color=ffffff" />
-</a>
-
-<a href="https://github.com/kufy-dev/learning-platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kufy-dev&repo=learning-platform&theme=chartreuse-dark&hide_border=true&bg_color=0a0e27&title_color=00ff88&icon_color=00ff88&text_color=ffffff" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 ## 📊 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kufy-dev&theme=react-dark&hide_border=true&bg_color=0a0e27&color=00ff88&line=00ff88&point=ffffff" alt="Activity Graph" />
@@ -527,35 +480,9 @@ If you find my projects helpful:
 
 <div align="center">
 
-### 🚀 "Code • Teach • Build • Share"
-
-![Snake animation](https://raw.githubusercontent.com/kufy-dev/kufy-dev/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 Visitor Stats
-
-![Visitor Count](https://profile-counter.glitch.me/kufy-dev/count.svg)
-
-</div>
-
----
-
-<div align="center">
-
-```
- ____        _ _     _   _             ____  _                      _               
-|  _ \      (_) |   | | (_)           / ___|| |__   __ _ _ __ ___  | |              
-| |_) |_   _ _| | __| |  _ _ __   __ \___ \| '_ \ / _` | '__/ _ \ | |    ___  _   _
-|  __/| | | | | |/ _` | | | '_ \ / _` |___) | | | | (_| | | |  __/ | |___|_  || | | |
-|_|   |_| |_|_|_|\__,_| |_| .__/ \__, |____/|_| |_|\__,_|_|  \___| |_____||_(_)|_| |_|
-                          |_|    |___/                                               
 ```
 
+```
 **⭐ Star repositories you find useful • 🍴 Fork projects you want to contribute to**
 
 <sub>Made with 💚, lots of ☕, and endless curiosity by Kufy Dev</sub>
